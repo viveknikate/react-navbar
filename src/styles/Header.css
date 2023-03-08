@@ -16,3 +16,11 @@ nav > a{
     text-decoration-line: underline;
     text-decoration-style:dotted;
 }
+
+button{
+    margin: 40px;
+    padding: 10px;
+}
+button:hover{
+    box-shadow: 5px 5px 10px 2px grey;
+}
